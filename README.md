@@ -1,2 +1,5 @@
 # UTN-webmaster
-Archivos de prueba del curso
+Archivos de prueba del curs
+Archivos:
+.html
+.css
