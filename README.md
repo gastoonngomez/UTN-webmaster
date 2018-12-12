@@ -1,7 +1,6 @@
 # UTN-webmaster
-Archivos de prueba del curs
-Archivos:
-.html
-.css
-Gaston
+Archivos de prueba del curso
+
+
 comunidad google+ https://plus.google.com
+gaston
